@@ -1,0 +1,64 @@
+/*header*/
+header{
+     background-color: #0000FF;
+     height: 120px;
+}
+#cabecera{
+    height: 70%;
+    display: flex;
+    justify-content: space-between; 
+    background-color: #00f0f0;
+    padding-top: 15px;
+    padding-right: 15px;
+    
+
+}
+#cabecera h1 ,button{
+    display: inline-block;
+}
+#cabecera h1 {
+    margin: 10px;
+}
+#cabecera button {
+    
+    
+    margin: 10px;
+    
+}
+#menu-button {
+    border:  2px solid #000000 ;
+    background-color: brown;
+    border-radius: 10px;
+    height: 60%;
+    width: 5%;
+    
+    
+}
+#menu-button img {
+    width: 20px;
+    height: 20px;
+    
+}
+#logo{
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 40px;
+    height: 40px;
+    
+    
+}
+#menu{
+    margin: 5px;
+    text-align: center;
+    display: none;
+    background-color: chocolate;
+    
+}
+#menu nav{
+    
+    justify-content: space-between; 
+}
+#menu a{
+    color: black;
+    padding-right: 10px;
+}
