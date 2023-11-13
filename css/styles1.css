@@ -68,10 +68,7 @@ header{
     color: black;
     padding-right: 10px;
 }
-/*
-main{
-    display: block;
-}*/
+
 
 /*principal*/
 #EyMprincipal{
@@ -92,3 +89,43 @@ main{
     padding: 0px;
 }
 
+/* mitad*/
+#EyMactualidad{
+    background-color: rgb(68, 15, 55);
+    padding: 0.7%;
+    
+}
+#noticias{
+    background-color: rgb(94, 62, 202);
+    width: 98%;
+    height: 120px;
+    padding: 1%;
+    margin-bottom:1%;
+}
+#EyMactualidad div{
+    background-color: rgb(62, 202, 148);
+    width: 98%;
+    padding: 1%;
+    
+    
+}
+#atencioncliente{
+    background-color: rgb(176, 202, 62);
+    display: inline-block;
+    margin: 0;
+    width: 50%;
+    height: 120px;
+    
+    
+    
+    
+}
+#empleado{
+    background-color: rgb(202, 62, 62);
+    display: inline-block;
+    margin: 0;
+    width: 49.5%;
+    height: 120px;
+    
+    
+}
